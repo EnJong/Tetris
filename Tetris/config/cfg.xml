@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<frame width = "1150" height = "680">
+		<WindowLayout className = "ui.WindowLayoutDatabase" objectName="databasewindow" axisX ="50" axisY = "25"/>
+		<WindowLayout className = "ui.WindowLayoutLocalRecord" objectName="localrecordwindow" axisX ="50" axisY = "333"/>
+		<WindowLayout className = "ui.WindowLayoutMain" objectName="mainwindow" axisX ="400" axisY = "25"/>
+		<WindowLayout className = "ui.WindowLayoutStart" objectName="startwindow" axisX ="800" axisY = "25"/>
+		<WindowLayout className = "ui.WindowLayoutNextShape" objectName="shapewindow" axisX ="800" axisY = "128"/>
+		<WindowLayout className = "ui.WindowLayoutLevel" objectName="levelwindow" axisX ="980" axisY = "128"/>
+		<WindowLayout className = "ui.WindowLayoutScore" objectName="scorewindow" axisX ="800" axisY = "300"/>
+		<WindowLayout className = "ui.WindowLayoutLicense" objectName="licensewindow" axisX ="800" axisY = "470"/>
+	</frame>
+	
+	<System>
+	
+	</System>
+	
+	<data>
+	
+	
+	
+	</data>
+	
+	
+	
+</game>
